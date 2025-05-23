@@ -1,6 +1,6 @@
 # 💨 Customizador de Secadores de Manos FFUUSS
 
-Configurador visual interactivo desarrollado para [FFUUSS](https://ffuuss.com). Este proyecto permite personalizar visualmente tres modelos de secadores modificando colores, aplicando acabados brillo o mate, y añadiendo una imagen personalizada sobre el producto.
+Configurador visual interactivo desarrollado para <a href="https://ffuuss.com" target="_blank">FFUUSS</a>. Este proyecto permite personalizar visualmente tres modelos de secadores modificando colores, aplicando acabados brillo o mate, y añadiendo una imagen personalizada sobre el producto.
 
 Este proyecto fue originalmente desarrollado como **shortcode de WordPress** y se ha adaptado para ejecutarse como módulo independiente.
 
@@ -12,7 +12,7 @@ Este proyecto fue originalmente desarrollado como **shortcode de WordPress** y s
 
 Integrado oficialmente en la web de FFUUSS:
 
-👉 [https://ffuuss.com/ffuuss-one/](https://ffuuss.com/ffuuss-one/)
+👉 <a href="https://ffuuss.com/ffuuss-one/" target="_blank">https://ffuuss.com/ffuuss-one/</a>
 
 ---
 
@@ -20,9 +20,9 @@ Integrado oficialmente en la web de FFUUSS:
 
 Puedes probar el proyecto de forma aislada cambiando el parámetro `ffuusstype`:
 
-- FFUUSS One: [Demo](https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=one)  
-- FFUUSS Dom: [Demo](https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=dom)  
-- FFUUSS Eos: [Demo](https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=eos)
+- <a href="https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=one" target="_blank">FFUUSS One</a>
+- <a href="https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=dom" target="_blank">FFUUSS Dom</a>
+- <a href="https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=eos" target="_blank">FFUUSS Eos</a>
 
 ---
 
@@ -69,8 +69,8 @@ Puedes probar el proyecto de forma aislada cambiando el parámetro `ffuusstype`:
 
 ## 👨‍💻 Autor
 
-Desarrollada como parte de mi trabajo en [Helefante](https://helefante.com)  
-Proyecto para [FFUUSS](https://ffuuss.com)
+Desarrollada como parte de mi trabajo en Helefante
+Proyecto para <a href="https://ffuuss.com" target="_blank">FFUUSS</a>
 
 ---
 

@@ -1,6 +1,6 @@
 # 💨 FFUUSS Hand Dryer Customizer
 
-A visual configurator for hand dryers developed for [FFUUSS](https://ffuuss.com). This interactive project allows users to customize three different hand dryer models by changing colors, applying matte or gloss finishes, and adding custom overlay images.
+A visual configurator for hand dryers developed for <a href="https://ffuuss.com" target="_blank">FFUUSS</a>. This interactive project allows users to customize three different hand dryer models by changing colors, applying matte or gloss finishes, and adding custom overlay images.
 
 Originally built as a **WordPress shortcode**, it has been adapted to run as a standalone front-end module.
 
@@ -12,7 +12,7 @@ Originally built as a **WordPress shortcode**, it has been adapted to run as a s
 
 Officially embedded in the FFUUSS website:
 
-👉 [https://ffuuss.com/ffuuss-one/](https://ffuuss.com/ffuuss-one/)
+👉 <a href="https://ffuuss.com/ffuuss-one/" target="_blank">https://ffuuss.com/ffuuss-one/</a>
 
 ---
 
@@ -20,9 +20,9 @@ Officially embedded in the FFUUSS website:
 
 Try the configurator in standalone mode by changing the `ffuusstype` parameter:
 
-- FFUUSS One: [Demo](https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=one)  
-- FFUUSS Dom: [Demo](https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=dom)  
-- FFUUSS Eos: [Demo](https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=eos)
+- <a href="https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=one" target="_blank">FFUUSS One</a>
+- <a href="https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=dom" target="_blank">FFUUSS Dom</a>
+- <a href="https://zeliuk.xyz/doityourself-handdryer-customizer/?ffuusstype=eos" target="_blank">FFUUSS Eos</a>
 
 ---
 
@@ -69,8 +69,8 @@ Try the configurator in standalone mode by changing the `ffuusstype` parameter:
 
 ## 👨‍💻 Author
 
-Developed as part of my work at [Helefante](https://helefante.com)  
-Project for [FFUUSS](https://ffuuss.com)
+Developed as part of my work at Helefante  
+Project for <a href="https://ffuuss.com" target="_blank">FFUUSS</a>
 
 ---
 
