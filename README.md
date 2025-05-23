@@ -69,7 +69,7 @@ Try the configurator in standalone mode by changing the `ffuusstype` parameter:
 
 ## 👨‍💻 Author
 
-Developed by [Helefante](https://helefante.com)  
+Developed as part of my work at [Helefante](https://helefante.com)  
 Project for [FFUUSS](https://ffuuss.com)
 
 ---

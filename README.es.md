@@ -69,7 +69,7 @@ Puedes probar el proyecto de forma aislada cambiando el parámetro `ffuusstype`:
 
 ## 👨‍💻 Autor
 
-Desarrollado por [Helefante](https://helefante.com)  
+Desarrollada como parte de mi trabajo en [Helefante](https://helefante.com)  
 Proyecto para [FFUUSS](https://ffuuss.com)
 
 ---
